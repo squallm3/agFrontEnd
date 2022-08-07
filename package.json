@@ -1,0 +1,23 @@
+{
+  "name": "argentina-programa-front-end",
+  "version": "1.0.0",
+  "description": "Front End para mi portfolio para el programa Argentina Programa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squallm3/agFrontEnd.git"
+  },
+  "author": "Mariano Marra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squallm3/agFrontEnd/issues"
+  },
+  "homepage": "https://github.com/squallm3/agFrontEnd#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "typescript": "^4.7.4"
+  }
+}
