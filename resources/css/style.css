@@ -6,3 +6,12 @@ header {
 #argentinaProgramaLogo {
     margin-bottom: 0;
 }
+
+#banner {
+    background-color: #9DE3F6;
+    height: 645px;
+}
+
+.bannerRow {
+    height: 128px;
+}
