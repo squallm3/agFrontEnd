@@ -13,5 +13,10 @@ header {
 }
 
 .bannerRow {
-    height: 128px;
+    height: 600px;
+}
+
+#presentation {
+    height: 291px;
+    border: 1px solid black;
 }
