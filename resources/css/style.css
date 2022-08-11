@@ -8,15 +8,30 @@ header {
 }
 
 #banner {
-    background-color: #9DE3F6;
-    height: 645px;
+    height: 600px;
+    background-image: url('../img/banner_portfolio.jpg');
 }
 
-.bannerRow {
+#bannerRow {
     height: 600px;
 }
 
+#profilePic {
+    height: 250px;
+    width: 250px;
+}
+
 #presentation {
-    height: 291px;
-    border: 1px solid black;
+    height: 242px;
+    background-color: #DEFFFB;
+}
+
+#namePosition {
+    height: 242px;
+    background-color: #82D8CE;
+}
+
+#introduction  {
+    height: 242px;
+    
 }
