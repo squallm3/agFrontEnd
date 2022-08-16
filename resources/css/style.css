@@ -1,7 +1,8 @@
+/* First Page: NavBar, Banner and Presetation */
+
 header {
     height: 88px;
 }
-
 
 #argentinaProgramaLogo {
     margin-bottom: 0;
@@ -12,13 +13,9 @@ header {
     background-image: url('../img/banner_portfolio.jpg');
 }
 
-#bannerRow {
-    height: 600px;
-}
-
 #profilePic {
-    height: 250px;
-    width: 250px;
+    height: 150px;
+    width: 150px;
 }
 
 #presentation {
@@ -26,12 +23,19 @@ header {
     background-color: #DEFFFB;
 }
 
-#namePosition {
+.namePosition {
     height: 242px;
     background-color: #82D8CE;
 }
 
 #introduction  {
     height: 242px;
-    
+}
+
+/* Second Page: Experience */
+
+.logos {
+    height: 200px;
+    width: 200px;
+    padding: 0;
 }
