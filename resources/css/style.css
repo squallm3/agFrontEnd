@@ -34,8 +34,21 @@ header {
 
 /* Second Page: Experience */
 
+#experience {
+    background-color: #DEFFFB;
+}
+
+
+#experienceTitle {
+    height: 88px;
+}
+
 .logos {
     height: 200px;
     width: 200px;
     padding: 0;
+}
+
+.workplacesTitles {
+    height: 80px;
 }
