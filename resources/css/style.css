@@ -39,7 +39,7 @@ header {
 }
 
 
-#experienceTitle {
+.sectionTitle {
     height: 88px;
 }
 
@@ -51,4 +51,12 @@ header {
 
 .workplacesTitles {
     height: 80px;
+}
+
+/* Third Page: Education */
+
+.logos100 {
+    height: 100px;
+    width: 100px;
+    padding: 0;
 }
