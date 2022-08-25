@@ -71,3 +71,16 @@ header {
 .percenteageTitles {
     margin-top: 15px;
 }
+
+.accordionHeaders {
+    background-color: 9DE3F6;
+}
+
+.imageCarr {
+    width: 100%;
+}
+
+.carousel-inner{
+    width: 75%;
+    max-height: 500px !important;
+  }
